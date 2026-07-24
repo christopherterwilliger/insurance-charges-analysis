@@ -79,7 +79,6 @@ Interactive slicers allow filtering by:
 
 ## Dashboard Preview
 
-*Add a screenshot of the dashboard here.*
 
 ![Dashboard](images/dashboard.png)
 
