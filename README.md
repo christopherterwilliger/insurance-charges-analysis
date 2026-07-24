@@ -96,3 +96,11 @@ Interactive slicers allow filtering by:
 - Python programming
 - Pandas
 - Matplotlib
+
+## Data Source
+
+This project uses the publicly available **Medical Cost Personal Dataset** from Kaggle.
+
+- Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
+
+This project is for educational and portfolio purposes. The original dataset was not created by me.
